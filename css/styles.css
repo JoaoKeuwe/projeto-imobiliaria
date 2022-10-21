@@ -435,6 +435,17 @@ body {
   }
 }
 
+@media (max-width: 700px) {
+  #text-sub3 {
+    font-size: 30px;
+  }
+
+  #text-sub-2 {
+    font-size: 15px;
+   padding-bottom: 10px;
+  }
+}
+
 @media (max-width: 1199px) {
   .picture-bottom {
     width: 300px;
