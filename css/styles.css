@@ -408,6 +408,43 @@ body {
   }
 }
 
+/* @media (min-width: 990px) {
+  .picture-bottom {
+    width: 400px;
+    height: 500px 
+  }
+} */
+
+.picture-bottom {
+  height: 455px;
+  margin-top: -25px;
+}
+
+@media (max-width: 700px) {
+  .picture-bottom {
+    width: 200px;
+    height: 500px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .picture-bottom {
+    width: 300px;
+    height: 550px;
+    margin-top: -20px;
+  }
+}
+
+
+
+@media (max-width: 1700px) {
+  .picture-bottom {
+    width: 600px;
+    height: 450px;
+    margin-top: -20px;
+  }
+}
+
 .footer-name {
   color: #ffbc00;
 }
