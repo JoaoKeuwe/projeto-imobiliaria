@@ -26,6 +26,11 @@ body {
   background-color: #ece8e2;
 }
 
+.py-3 {
+  padding-top: 1rem!important;
+  padding-bottom: 8px!important;
+}
+
 .bg-dark-color {
   background-color: #050505;
 }
@@ -88,6 +93,7 @@ body {
 .navbar-brand img {
   width: 200px;
   height: 100px;
+  margin-top: -20px;
   filter: brightness(2);
 }
 
@@ -254,6 +260,8 @@ body {
   height: 640px;
   width: 960px;
 }
+
+
 
 #featured-images .banner-content {
   position: absolute;
