@@ -371,7 +371,8 @@ body {
 }
 
 #links-container a:hover {
-  color: #ffbc00;
+  color: #ffbc00
+  ;
 }
 
 /* FOOTER BOTTOM */
