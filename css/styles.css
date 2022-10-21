@@ -74,7 +74,7 @@ body {
 }
 
 #navbar a:hover {
-  color: #7a7a7a;
+  color: #ffbc00;
 }
 
 #navbar .active {
@@ -336,7 +336,7 @@ body {
 }
 
 #social-icons i:hover {
-  color: #7a7a7a;
+  color: #ffbc00;
 }
 
 /* FOOTER DETAILS */
@@ -371,7 +371,7 @@ body {
 }
 
 #links-container a:hover {
-  color: #fff;
+  color: #ffbc00;
 }
 
 /* FOOTER BOTTOM */
