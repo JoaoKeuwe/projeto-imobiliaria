@@ -372,6 +372,7 @@ body {
 
 #links-container a:hover {
   color: #ffbc00
+  
   ;
 }
 
@@ -398,5 +399,11 @@ body {
 
   #links-container {
     padding-left: 2em;
+  }
+}
+
+@media (min-width: 375px) {
+  #text-sub {
+    font-size: 20px;
   }
 }
