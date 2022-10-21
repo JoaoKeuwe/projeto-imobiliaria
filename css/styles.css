@@ -402,8 +402,12 @@ body {
   }
 }
 
-@media (min-width: 375px) {
+@media (max-width: 375px) {
   #text-sub {
     font-size: 20px;
   }
+}
+
+.footer-name {
+  color: #ffbc00;
 }
