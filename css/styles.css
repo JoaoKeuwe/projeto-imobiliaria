@@ -19,12 +19,7 @@ body {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(11.9px);
   -webkit-backdrop-filter: blur(11.9px);
-  -webkit-border-bottom-right-radius: 20px;
-  -webkit-border-bottom-left-radius: 20px;
-  -moz-border-radius-bottomright: 20px;
-  -moz-border-radius-bottomleft: 20px;
-  border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
+
 }
 
 .bg-secondary-color {
@@ -39,7 +34,7 @@ body {
   color: #ffbc00;
   letter-spacing: 2px;
   font-size: 60px;
-  font-family: "Fasthand", cursive;
+  
 }
 
 #text-sub-2 {
@@ -49,8 +44,8 @@ body {
 #text-sub3 {
     color: #ffbc00;
     letter-spacing: 2px;
-    font-size: 60px;
-    font-family: "Fasthand", cursive;
+    font-size: 50px;
+    
 }
 .primary-color {
   color: #000000;
@@ -70,8 +65,10 @@ body {
   padding-bottom: 1px;
 }
 
+
+
 #navbar a {
-  color: #0a0f5c;
+  color: #ffffff;
   font-size: 20px;
   font-weight: bold;
 }
@@ -93,6 +90,7 @@ body {
   height: 100px;
   filter: brightness(2);
 }
+
 
 .navbar-brand span {
   font-weight: 700;
@@ -181,15 +179,17 @@ body {
 /* MINI BANNERS */
 #mini-banners {
   margin-bottom: 4em;
+  
 }
 
 #mini-banners .card {
   padding: 2em 0.3em;
-  border-radius: 0;
   border-radius: 10px;
-  background: rgb(0, 0, 0);
-  background: linear-gradient(331deg, rgb(0, 0, 0) 3%, rgb(122, 96, 3) 36%, rgb(83, 82, 82) 95%);
+  
+ 
 }
+
+
 
 #mini-banners i {
   font-size: 4em;
