@@ -259,6 +259,7 @@ body {
   box-shadow: 9px 4px 21px 0px rgba(255, 187, 0, 0.435);
   height: 640px;
   width: 960px;
+  border-radius: 10px;
 }
 
 
