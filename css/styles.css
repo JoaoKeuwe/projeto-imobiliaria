@@ -262,7 +262,9 @@ body {
   border-radius: 10px;
 }
 
-
+.button-slider {
+  margin-top: -5px;
+}
 
 #featured-images .banner-content {
   position: absolute;
@@ -278,6 +280,7 @@ body {
   flex-direction: column;
   opacity: 0.6;
   transition: 0.5s;
+  border-radius: 10px;
 }
 
 @media (min-width: 768px) {
